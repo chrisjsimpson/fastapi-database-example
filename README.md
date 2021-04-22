@@ -9,4 +9,6 @@ pip install -r requirements.txt
 uvicorn sql_app.main:app --reload
 ```
 
-See also: [FastAPI tutorial with automated deployment]('https://github.com/chrisjsimpson/fastapi')
+
+See also: 
+[FastAPI tutorial with automated deployment](https://github.com/chrisjsimpson/fastapi)
