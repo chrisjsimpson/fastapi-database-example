@@ -12,3 +12,5 @@ uvicorn sql_app.main:app --reload
 
 See also: 
 [FastAPI tutorial with automated deployment](https://github.com/chrisjsimpson/fastapi)
+
+[FastAPI database tutorial official](https://fastapi.tiangolo.com/tutorial/sql-databases/)
